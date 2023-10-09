@@ -6,3 +6,8 @@
     height: 4rem;
   }
 }
+@media screen and (max-width: 400px) {
+  .logo {
+    height: 3rem;
+  }
+}

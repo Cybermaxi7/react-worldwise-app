@@ -24,6 +24,12 @@
   font-size: 1.5rem;
   font-weight: 600;
 }
+@media screen and (max-width: 400px) {
+  .nav a:link,
+  .nav a:visited {
+    font-size: 1.2rem;
+  }
+}
 
 /* CSS Modules feature */
 .nav a:global(.active) {

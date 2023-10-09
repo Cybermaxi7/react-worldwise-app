@@ -12,3 +12,8 @@
     flex-direction: column-reverse;
   }
 }
+@media screen and (max-width: 600px) {
+  .app {
+    padding: 1.2rem;
+  }
+}
