@@ -1,0 +1,8 @@
+.logo {
+  height: 5.2rem;
+}
+@media screen and (max-width: 600px) {
+  .logo {
+    height: 4rem;
+  }
+}
